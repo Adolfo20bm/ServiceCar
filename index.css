@@ -1,0 +1,15 @@
+@import './variables.css';
+@import './header.css';
+@import './hero.css';
+@import './projects.css';
+
+.body {
+  background-color: var(--primary-theme-color);
+  color: var(--primary-text-color);
+  font-family: var(--primary-font-family);
+  margin: 0;
+}
+
+.main {
+  overflow: hidden;
+}
